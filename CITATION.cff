@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper below."
+title: "MLtool: A machine learning software tool for multiclass classification"
+authors:
+  - family-names: Wang
+    given-names: Shangzhou
+  - family-names: Lu
+    given-names: Haohui
+  - family-names: Khan
+    given-names: Arif
+  - family-names: Hajati
+    given-names: Farshid
+  - family-names: Khushi
+    given-names: Matloob
+  - family-names: Uddin
+    given-names: Shahadat
+repository-code: "https://github.com/haohuilu/MLtool"
+license: MIT
+preferred-citation:
+  type: article
+  title: "A machine learning software tool for multiclass classification"
+  authors:
+    - family-names: Wang
+      given-names: Shangzhou
+    - family-names: Lu
+      given-names: Haohui
+    - family-names: Khan
+      given-names: Arif
+    - family-names: Hajati
+      given-names: Farshid
+    - family-names: Khushi
+      given-names: Matloob
+    - family-names: Uddin
+      given-names: Shahadat
+  journal: "Software Impacts"
+  volume: 13
+  start: 100383
+  year: 2022
+  doi: "10.1016/j.simpa.2022.100383"
