@@ -1,0 +1,23 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Deep learning (MLP and CNN models in the notebook)
+tensorflow
+keras
+
+# Plotting
+matplotlib
+seaborn
+
+# Utilities
+glob2
+openpyxl   # required by pandas to write .xlsx results
+
+# Notebook
+jupyter
